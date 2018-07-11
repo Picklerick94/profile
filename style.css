@@ -1,6 +1,6 @@
 @font-face {
     font-family: "TravelingTypewriter";
-    src: url(profile/TravelingTypewriter.ttf) format("truetype");
+    src: url('TravelingTypewriter.ttf') format("truetype");
 }
 
 p {
