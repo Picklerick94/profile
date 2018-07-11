@@ -153,7 +153,7 @@ a{
   border: 3px solid #cccccc;
 }
 
-#spots {
+.spots {
   font-family: TravelingTypewriter;
   margin: 0 auto;
 }
