@@ -1,0 +1,159 @@
+p {
+  font-family: LemonMilk;
+  color: black;
+  font-weight: lighter;
+  font-size: 15px;
+  text-align: center;
+}
+
+h2 {
+  font-family: LemonMilk;
+  color: black;
+  font-weight: lighter;
+  font-size: 20px;
+  text-align: center;
+}
+
+h3 {
+  font-family: TravelingTypewriter;
+  background-color: white;
+  text-align: center;
+}
+
+i{
+  color: #ccc;
+  text-decoration: none;
+}
+
+a{
+  color: #ccc;
+  text-decoration: none;
+}
+
+.begin {
+  color:black;
+  font-family:CaviarDreams;
+  font-size:20px;
+  text-align: center;
+}
+
+.banner {
+  font-family: LemonMilk;
+  color: white;
+  font-weight: lighter;
+  font-size: 50px;
+}
+
+#footer p {
+  font-family: TravelingTypewriter;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+
+#nav {
+  font-family: TravelingTypewriter;
+  border:1px none;
+  height:auto;
+  text-align: center;
+  width: 700px;
+  margin: 25px auto;
+  font-size: 20px;
+}
+
+#nav ul{
+  list-style-type: none;
+}
+
+#nav ul li{
+  border: 1px none;
+  width: 40px;
+  display: inline;
+  padding: 10px;
+}
+
+#nav ul li a:link{
+  text-decoration: none;
+}
+
+#nav ul li a:visited{
+  text-decoration: none;
+  color: grey;
+}
+
+#nav ul li a:hover{
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#nav ul li a:active{
+  text-decoration: none;
+  color: pink;
+}
+
+#container{
+  text-align: center;
+  font-size: 50px;
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  padding: 200px;
+  font-color: white;
+}
+
+/*FOR BOXES*/
+
+.container{
+  width: 500px;
+  margin: 30px auto;
+}
+.card{
+  background: white;
+  padding: 20px;
+  margin-top: 250px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+.img-circle{
+  border-radius: 50%;
+}
+.text-center{
+  text-align: center;
+}
+.list-inline {
+  padding-left: 0;
+}
+.list-inline li {
+  display: inline-block;
+  padding: 20px;
+}
+.list-inline li i{
+  font-size: 25px;
+}
+
+.btn-red{
+  background-color: #DD5555;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.btn-red:hover{
+  background-color: #C61414;
+  color: white;
+}
+
+/* Specific CSS rules */
+
+#img-profile{
+  width: 50px;
+  height: 50px;
+  border: 3px solid #cccccc;
+}
+
+#spots {
+  font-family: TravelingTypewriter;
+  margin: 0 auto;
+}
